@@ -28,3 +28,21 @@ Header has logo and name of company, along with the nav bar. Here is the code fo
     </nav>
 </header>
 ```
+## Pages
+
+### Home
+
+Home page, for now, just displays some lorem ipsum text.
+Finally getting the hang of git.
+Here's the code we used:
+``` html
+      <section>
+        <div class="jumbotron">
+          <img src="./images/jumbotron.jpg" />
+        </div>
+        <div class="details">
+          <p>
+            lorem ipsum text went here
+          </p>
+        </div>
+      </section>
