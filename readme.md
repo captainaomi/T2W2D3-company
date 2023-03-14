@@ -46,3 +46,16 @@ Here's the code we used:
           </p>
         </div>
       </section>
+
+...
+## Styling
+...
+### Components
+This will contain the styling of individual components which are as following at the moment:
+- Header
+...
+### Defaults
+This will contain the default variables such as colors, breakpoints, etc.
+...
+### Pages
+This will contain the styling of each individual HTML pages.
