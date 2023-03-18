@@ -51,6 +51,12 @@ Here's the code we used:
 ### Services
 Servies page displays the list of services that we provide.
 ...
+### Contact
+Contact page can be used to contact the company.
+...
+### About
+About page is about us.
+...
 ### Components
 This will contain the styling of individual components which are as following at the moment:
 - Header
@@ -61,5 +67,3 @@ This will contain the default variables such as colors, breakpoints, etc.
 ### Pages
 This will contain the styling of each individual HTML pages.
 ...
-### Contact
-Contact page can be used to contact the company.
